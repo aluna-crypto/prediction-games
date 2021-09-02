@@ -1,7 +1,6 @@
-# 🚀 Aluna Boosted Finance 🚀
+# 🎮 Aluna Boosted Finance 🎮
 
-Aluna Boosted Finance is a fork of [Boosted Finance](https://github.com/Boosted-Finance/smart-contracts)'s
-Smart Contracts.
+Aluna Prediction Games
 
 ## Development
 
@@ -43,7 +42,7 @@ This project uses [buidler](https://buidler.dev/) scripts to deploy.
 
 In order to run the deploy scripts you need to create an `.env` file, please refer to our `.env.example`
 
-Tests were done on the KOVAN network in order to interact with uniswap contracts.
+Tests were done on the KOVAN network in order to interact with ChainkLink contracts.
 
 1. deploy mock tokens
 
