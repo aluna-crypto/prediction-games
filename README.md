@@ -1,6 +1,4 @@
-# 🎮 Aluna Boosted Finance 🎮
-
-Aluna Prediction Games
+# 🎮 Aluna Prediction Games 🎮
 
 ## Development
 
